@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidiweala and I am a freelance web developer. I will be graduating from Covenant University by October 2021 with a Bachelor's Degree in Electrical and Computer Engineering
+- 👋 Hi, I’m @davidiweala and I am a freelance web developer. I am a graduate of Covenant University  with a Bachelor's Degree in Computer Engineering
 - 👀 I’m interested in web development, Software Engineering and building technology to solve different problems faced by humans.
 - 🌱 I’m currently learning the MERN stack, DevOps, Cloud platforms to help pursue my goal in Software Engineering 
 - 💞️ I’m looking to collaborate on any project relating to building solutions both in the banking industry, artificial intelligence, Data analysis, Web development.
